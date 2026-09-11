@@ -88,19 +88,19 @@
 <g id="Frame 1000003126">
 <g id="Frame 1000003127">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="178.28" y="706.227">Java</tspan></text>
-<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">37.9%</tspan></text>
+<text fill="#b07219" font-family="Inter" font-size="32" font-weight="600"><tspan x="178.486" y="748.136">37.7%</tspan></text>
 <rect x="178" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="178" y="761" width="47" height="9" rx="3" fill="#b07219"/>
 </g>
 <g id="Frame 1000003128_2">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="418.28" y="706.227">CSS</tspan></text>
-<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">19.5%</tspan></text>
+<text fill="#563d7c" font-family="Inter" font-size="32" font-weight="600"><tspan x="418.486" y="748.136">19.4%</tspan></text>
 <rect x="418" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="418" y="761" width="24" height="9" rx="3" fill="#563d7c"/>
 </g>
 <g id="Frame 1000003129">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="658.28" y="706.227">Vue</tspan></text>
-<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">18.9%</tspan></text>
+<text fill="#41b883" font-family="Inter" font-size="32" font-weight="600"><tspan x="658.486" y="748.136">19.3%</tspan></text>
 <rect x="658" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="658" y="761" width="24" height="9" rx="3" fill="#41b883"/>
 </g>
@@ -112,7 +112,7 @@
 </g>
 <g id="Frame 1000003131">
 <text fill="white" font-family="Inter" font-size="24" font-weight="600"><tspan x="1138.28" y="706.227">JavaScript</tspan></text>
-<text fill="#f1e05a" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">11.1%</tspan></text>
+<text fill="#f1e05a" font-family="Inter" font-size="32" font-weight="600"><tspan x="1138.49" y="748.136">11.0%</tspan></text>
 <rect x="1138" y="761" width="210" height="9" rx="3" fill="white" fill-opacity="0.16"/>
 <rect x="1138" y="761" width="14" height="9" rx="3" fill="#f1e05a"/>
 </g>
